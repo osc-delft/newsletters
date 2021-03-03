@@ -20,3 +20,7 @@ Dear OSC Delft members,
 **Opportunities**
 
 **Events**
+
+Are there announcements, events and opportunities that you would like to bring to the community for the next newsletter in [month]? Please [submit an issue](https://github.com/osc-delft/newsletters/issues) or email me.
+
+Best,
