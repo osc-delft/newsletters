@@ -14,9 +14,6 @@ This newsletter is sent to all OSCD members, once every 2 months. :incoming_enve
 
 We limit items to single bullet points - relevant URLs are recommended, (non-excessive) emojis are :ok: , no images allowed.
 
-## Roadmap
-We still have to upload some of our past newsletters (where possible), and come up with a process to use this GitHub repo to draft newsletters in the future.
-
 ## How can I contribute?
 You can:
 - Contribute newsletter content, you can do this either by:
@@ -40,3 +37,6 @@ You can:
   - The items added to the item collection issue is copied into the HackMD draft upon review. 
 - The day before the newsletter is sent, Emmy reviews all items proposed on the draft and in the relevant issues. 
 - The newsletter is sent! The final draft on HackMD is pushed and the writing branch is merged into `main` then deleted. At the same time, a new `write-[month]` branch, items collection issue and HackMD draft is started for the next newsletter.
+
+## Roadmap
+We still have to upload some of our past newsletters (where possible).
