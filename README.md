@@ -2,12 +2,12 @@
 
 Welcome! This is the GitHub repository where we will put the online versions of the [Open Science Community Delft (OSCD)](https://osc-delft.github.io) newsletters, and hopefully draft them too! 
 
-This newsletter is sent to all OSCD members, once every 2 months. :incoming_envelope: The newsletter is currently curated and sent by Emmy Tsang, OSC Delft coodinator, with contributions from community members.
+This newsletter is sent to all OSCD members, once every 2 months. :incoming_envelope: The newsletter is currently curated and sent by Emmy Tsang, OSC Delft coordinator, with contributions from community members.
 
 ## How do I sign up to the newsletter?
 [Join the Open Science Community Delft!](https://osc-delft.github.io/join) :hibiscus: You have to be employed/studying at TU Delft to be able to receive our newsletter in your inbox- but we welcome everyone interested to read the newsletter online, here in this repo. 
 
-## Scope and Types of items in the newletters
+## Scope and Types of items in the newsletters
 - Announcements: Open-science related initiatives, publications, presentations, awards, etc that involved OSCD members
 - Opportunities: Open-science related funding, job, support opportunities that OSCD members can benefit from
 - Events: Institutional, national and international open science events that OSCD members could be interested in participating in.
@@ -29,7 +29,7 @@ You can:
 - Direct new members here so they know what they receive in their mailboxes when they become community members! :book:
 
 ## How do we draft these newsletters?
-- Emmy Tsang, OSCD coordinator, starts a new branch for the next newsletter (named `write-[month]`, where `month` is whichever month the next newsletter will go out in). This is ususally done 2 months ahead of time (as an example, the last newsletter was sent on March 3, 2021; at the same time the new branch for the next newsletter was created - this next newsletter will be sent in the first week of May 2021)
+- Emmy Tsang, OSCD coordinator, starts a new branch for the next newsletter (named `write-[month]`, where `month` is whichever month the next newsletter will go out in). This is usually done 2 months ahead of time (as an example, the last newsletter was sent on March 3, 2021; at the same time the new branch for the next newsletter was created - this next newsletter will be sent in the first week of May 2021)
   - She also creates a draft on HackMD, using `newsletter-template.md`. This contains guidelines for all item adders and editors of the newsletter, as well as a deadline for adding items.
   - She creates an items collection issue, which will start with a description of the scope and types of items.
 - The HackMD draft is pushed to `write-[month]`, linked to as `[year]-[month].md`
