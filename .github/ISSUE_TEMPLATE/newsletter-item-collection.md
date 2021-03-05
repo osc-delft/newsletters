@@ -18,3 +18,5 @@ Please comment below to propose newsletter items!
 We limit items to single bullet points - relevant URLs are recommended, (non-excessive) emojis are 🆗 , no images allowed.
 
 A short description of why your suggested item(s) is relevant for OSCD members will also be very helpful for our reviewing and curation!
+
+Please propose items on or before [date] - this issue will be closed after this date.
