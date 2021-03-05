@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Please comment below to propose newsletter items!
+
 # Scope and Types of items in the newsletters
 
 - Announcements: Open-science related initiatives, publications, presentations, awards, etc that involved OSCD members
